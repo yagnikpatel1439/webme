@@ -7,8 +7,8 @@ about.addEventListener('click', () => {
    const aboutBox =  new WinBox ({
        title: 'gee,thanks',
        modal: true,
-       width: '500px',
-       height: '500px',
+       width: '450px',
+       height: '450px',
        top: 50,
        right: 50,
        bottom: 50,
